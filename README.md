@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IdanAr
 - 👀 I’m interested in Data Analysis, Business Intellgnce and BIG DATA
-- 🌱 I’m currently learning Industrial and managment engineering (B.Sc), and other online courses on my own. 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 B.Sc Industrial and managment engineer. 
+- 💞️ I’m looking to collaborate on job opportunities, share ideas and etc
 - 📫 How to reach me at idan.rbel@gmail.com / +972543131379
 
 <!---
